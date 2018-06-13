@@ -1,0 +1,4 @@
+By mistake we forgot to add web.xml file. 
+Instead we used annotation for mapping purpose.
+Please open "Homepage.jsp", as that is our welcome page.
+Thank you.
