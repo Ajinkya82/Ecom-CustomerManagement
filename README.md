@@ -1,0 +1,2 @@
+# Ecom-CustomerManagement
+Application is developed using Java JSP and Servlet. It follows MVC architecture. Functionalities include :  Autogeneration of ID and Password on registration Transfer request management : Employee can request for transfer only after successfull complition of one year of service All the users will be provided with a view (Tabular fomat) and additional functions like view, update, delete  based on their role  
